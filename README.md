@@ -14,6 +14,8 @@
 7. Published paper: Minsu Kim, Sunhee Kong, Boeui Hong, Lei Xu, Weidong Shi and Taeweon Suh, "Evaluating Coherence-exploiting Hardware Trojan," In the Proceedings of the Design, Automation and Test in Europe (DATE), pp 157~162, Lausanne, Swizerland, March 2017.
 
 8. directory
--Host : Run on x86 pc
--Board: Run on Zedboard
+
+  -Host : Run on x86 pc
+
+  -Board: Run on Zedboard
 
