@@ -16,3 +16,4 @@
 8. directory
 -Host : Run on x86 pc
 -Board: Run on Zedboard
+
